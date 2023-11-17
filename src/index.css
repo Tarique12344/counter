@@ -42,7 +42,7 @@ code {
   width: 60%;
   height: auto;
   background-color: royalblue;
-  border-radius: 20px;
+  /* border-radius: 20px; */
 }
 
 button {
